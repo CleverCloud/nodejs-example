@@ -5,9 +5,5 @@
   "type": "module",
   "engines": {
     "node": "^14"
-  },
-  "scripts": {
-    "docker:build": "docker build -t hsablonniere/small-node-app:2.0.0 .",
-    "docker:push": "docker push hsablonniere/small-node-app"
   }
 }
