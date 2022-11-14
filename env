@@ -1,0 +1,6 @@
+CC_PRE_BUILD_HOOK="echo 'echo for hook CC_PRE_BUILD_HOOK'"
+CC_POST_BUILD_HOOK="echo 'echo for hook CC_POST_BUILD_HOOK'"
+CC_PRE_RUN_HOOK="echo 'echo for hook CC_PRE_RUN_HOOK'"
+CC_RUN_SUCCEEDED_HOOK="echo 'echo for hook CC_RUN_SUCCEEDED_HOOK'"
+CC_RUN_FAILED_HOOK="echo 'echo for hook CC_RUN_FAILED_HOOK'"
+PORT=8080

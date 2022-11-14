@@ -1,0 +1,11 @@
+{
+  "apps": [
+    {
+      "app_id": "app_4fc99077-99d7-4cef-85fa-e005afc6b06b",
+      "org_id": "user_d3d02829-8847-40ea-ab76-ada4e2f026c0",
+      "deploy_url": "https://push-n2-par-clevercloud-customers.services.clever-cloud.com/app_4fc99077-99d7-4cef-85fa-e005afc6b06b.git",
+      "name": "test-node",
+      "alias": "test-node"
+    }
+  ]
+}
