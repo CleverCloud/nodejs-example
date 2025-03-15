@@ -1,3 +1,5 @@
+![Clever Cloud logo](/github-assets/clever-cloud-logo.png)
+
 # Minimal Node.js Example for Clever Cloud
 
 This repository contains a minimal Node.js application that can be deployed on [Clever Cloud](https://www.clever-cloud.com/). It demonstrates how to create the simplest possible Node.js application with no external dependencies that runs on the Clever Cloud platform.
